@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1.0">
+<title>BookNook | Books & Stationery</title><link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+<header><nav class="nav"><a class="logo" href="index.html">📚 Book<span>Nook</span></a>
+<div class="links"><a href="index.html">Home</a><a href="books.html">Books</a><a href="stationery.html">Stationery</a><a href="about.html">About</a><a href="contact.html">Contact</a></div>
+<div class="actions"><a href="login.html">👤</a><a href="cart.html">🛒 <b id="cartCount">0</b></a></div></nav></header>
+<main>
+<section class="hero"><div><p class="eyebrow">YOUR HAPPY PLACE FOR READING</p><h1>Stories, ideas & <em>stationery</em> for every day.</h1><p>Discover bestselling books, beautiful notebooks, creative supplies and more—all in one cozy corner.</p><div class="heroBtns"><a class="btn" href="books.html">Explore Books</a><a class="btn ghost" href="stationery.html">Shop Stationery</a></div></div><div class="heroArt">📖<span>✏️</span><span>☕</span></div></section>
+<section class="section"><div class="sectionHead"><div><p class="eyebrow">CURATED FOR YOU</p><h2>Featured Books</h2></div><a href="books.html">View all →</a></div><div class="grid" id="featured"></div></section>
+<section class="banner"><div><p class="eyebrow">BOOKNOOK CLUB</p><h2>Make reading a daily ritual.</h2><p>Get recommendations, new arrivals and special offers in your inbox.</p></div><a class="btn" href="register.html">Join Free</a></section>
+</main>
+<footer><div><a class="logo" href="index.html">📚 BookNook</a><p>Books & stationery for curious minds.</p></div><div><h4>Shop</h4><a href="books.html">Books</a><a href="stationery.html">Stationery</a></div><div><h4>Help</h4><a href="contact.html">Contact</a><a href="about.html">About</a></div></footer>
+<script src="js/app.js"></script><script>renderProducts("featured", PRODUCTS.filter(p=>p.type==="book").slice(0,4));</script>
+</body></html>
