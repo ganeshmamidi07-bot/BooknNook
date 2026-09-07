@@ -132,7 +132,7 @@ The goal of this project is to demonstrate practical front-end web development s
 **Type:** Web Development Internship Project\
 **Status:** Front-End Demo
 
-## Student Details[#](vscode-webview://1pi4palejkapno2brc4of8uu1n2as3f3hafv23v8dskbt6panbeh/index.html?id=0013999f-ad06-469f-b7f1-e638fe19fa81\&parentId=1\&origin=2b448257-7da6-4d85-8bd2-cae0e059682c\&swVersion=6\&extensionId=bowlerr.offline-markdown-preview\&platform=electron\&vscode-resource-base-authority=vscode-resource.vscode-cdn.net\&parentOrigin=vscode-file%3A%2F%2Fvscode-app#student-details "Copy heading link")
+## Student Details[](vscode-webview://1pi4palejkapno2brc4of8uu1n2as3f3hafv23v8dskbt6panbeh/index.html?id=0013999f-ad06-469f-b7f1-e638fe19fa81\&parentId=1\&origin=2b448257-7da6-4d85-8bd2-cae0e059682c\&swVersion=6\&extensionId=bowlerr.offline-markdown-preview\&platform=electron\&vscode-resource-base-authority=vscode-resource.vscode-cdn.net\&parentOrigin=vscode-file%3A%2F%2Fvscode-app#student-details "Copy heading link")
 
 **Name:** Ganesh Mamidi\
 **Email:** [ganeshmamidi071@gmail.com](mailto\:ganeshmamidi071@gmail.com)\
